@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "deployments": {
+    "aspNetCoreWeb": [
+      {
+        "name": "[yourAppName]",
+        "parameters": {
+          "appBundle": "csy_network.zip",
+          "iisPath": "/",
+          "iisWebSite": "Default Web Site"
+        }
+      }
+    ]
+  }
+}

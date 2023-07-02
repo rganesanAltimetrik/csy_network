@@ -1,0 +1,11 @@
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\csy_network.exe
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\appsettings.json
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\csy_network.dll
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\csy_network.deps.json
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\csy_network.runtimeconfig.json
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\csy_network.pdb
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Srijan\csy_network\csy_network\csy_network\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
