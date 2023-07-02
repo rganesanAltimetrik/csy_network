@@ -3,9 +3,9 @@
   "deployments": {
     "aspNetCoreWeb": [
       {
-        "name": "[yourAppName]",
+        "name": "csynetwork",
         "parameters": {
-          "appBundle": "csy_network.zip",
+          "appBundle": "site.zip",
           "iisPath": "/",
           "iisWebSite": "Default Web Site"
         }
