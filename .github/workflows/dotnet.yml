@@ -32,7 +32,7 @@ jobs:
         run: cd csy_network; dotnet restore; dotnet publish -r win10-x64 --configuration "Release" --self-contained "true" -o ../site;
 
       - name: Generate deployment package 
-        run: cd csy_network; zip ../site.zip *; cd ..; zip csy_network.zip site.zip aws-windows-deployment-manifest.json
+        run: zip -r site.zip . -x '*.git*'
 
       - name: Deploy to EB
         uses: einaregilsson/beanstalk-deploy@v16
