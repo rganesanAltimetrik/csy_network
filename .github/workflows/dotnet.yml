@@ -34,10 +34,6 @@ jobs:
       - name: Generate deployment package 
         run: cd csy_network; zip ../site.zip *; cd ..; zip csy_network.zip site.zip aws-windows-deployment-manifest.json
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       - name: Deploy to EB
         uses: einaregilsson/beanstalk-deploy@v16
         with:
