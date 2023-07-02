@@ -43,4 +43,4 @@ jobs:
           environment_name: Csynetwork1-env
           version_label: ${{ github.run_id }}
           region: us-east-1
-          deployment_package: site.zip
+          deployment_package: csy_network.zip
