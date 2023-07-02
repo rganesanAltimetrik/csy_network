@@ -1,0 +1,13 @@
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\csy_network.exe
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\aws-beanstalk-tools-defaults.json
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\aws-windows-deployment-manifest.json
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\csy_network.dll
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\csy_network.deps.json
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\csy_network.runtimeconfig.json
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\csy_network.pdb
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Srijan\csy_network\csy_network\csy_network\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
