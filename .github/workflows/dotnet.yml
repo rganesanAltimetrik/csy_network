@@ -29,10 +29,10 @@ jobs:
           dotnet-version: '6.0' # SDK Version to use; x will use the latest version of the 3.1 channel
       
       - name: Publish prod
-        run: cd csy_network; dotnet restore; dotnet publish -r win10-x64 --configuration "Release" --self-contained "true" -o ../csy_network;
+        run: cd csy_network; dotnet restore; dotnet publish -r win10-x64 --configuration "Release" --self-contained "true" -o ../site;
 
       - name: Generate deployment package 
-        run: cd csy_network; zip ../csy_network.zip *; cd ..; zip csy_network.zip csy_network.zip aws-windows-deployment-manifest.json
+        run: cd csy_network; zip ../site.zip *; cd ..; zip csy_network.zip site.zip aws-windows-deployment-manifest.json
 
       - name: Deploy to EB
         uses: einaregilsson/beanstalk-deploy@v16
@@ -43,4 +43,4 @@ jobs:
           environment_name: csynetwork-prod
           version_label: ${{ github.run_id }}
           region: us-east-1
-          deployment_package: csy_network.zip
+          deployment_package: site.zip
