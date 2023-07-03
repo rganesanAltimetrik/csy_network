@@ -22,23 +22,19 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: csy_network/csy_network
-
     - name: Build
       run: dotnet build --no-restore
-      working-directory: csy_network/csy_network
-
+      
     - name: Test
       run: dotnet test --no-build --verbosity normal --collect:"XPlat Code Coverage" --logger trx --results-directory coverage
-      working-directory: csy_network/csy_network.Test
-
+            
     - name: Copy Coverage to Predictable Location
-      run: cp csy_network/coverage/*/coverage.cobertura.xml coverage/coverage.cobertura.xml
+      run: cp coverage/*/coverage.cobertura.xml coverage/coverage.cobertura.xml
 
     - name: Code Coverage Summary Report
       uses: irongut/CodeCoverageSummary@v1.3.0
       with:
-        filename: ./coverage/coverage.cobertura.xml
+        filename: coverage/coverage.cobertura.xml
         badge: true
         format: 'markdown'
         output: 'both'     
