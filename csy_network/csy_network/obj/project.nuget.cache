@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rDysu6rOuN+kPFoJxCiKl5L2gj2fxNHFW8Eyvom+iNud/IqTFVq/X/UKWD2L2vfUkyxylTw/ILk8xEa/A75czQ==",
+  "dgSpecHash": "xww/Cv4iLynnUp1a8+DuAByeiRYEh2W3KCQcNxWdQyQR/Gav0s1K6XiRrd3wJMiYQ7sN4N+Uw8LbRKelgCPdEQ==",
   "success": true,
   "projectFilePath": "D:\\srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj",
   "expectedPackageFiles": [
+    "D:\\Users\\avalle\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "D:\\Users\\avalle\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "D:\\Users\\avalle\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "D:\\Users\\avalle\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
