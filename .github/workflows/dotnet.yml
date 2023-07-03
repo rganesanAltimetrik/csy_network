@@ -31,6 +31,7 @@ jobs:
     - name: Copy Coverage to Predictable Location
       run: cp coverage/*/coverage.cobertura.xml coverage/coverage.cobertura.xml
 
+<<<<<<< HEAD
     - name: Code Coverage Summary Report
       uses: irongut/CodeCoverageSummary@v1.3.0
       with:
@@ -43,3 +44,19 @@ jobs:
       run: |
        curl https://deepsource.io/cli | sh
        DEEPSOURCE_DSN=https://d6269f88abd640aa9f425812e037fd32@app.deepsource.com ./bin//deepsource report --analyzer test-coverage --key csharp --value-file ./coverage/coverage.cobertura.xml
+=======
+      - name: Generate deployment package 
+        run: cd site; zip ../site.zip *; cd ..; zip csy_network.zip site.zip aws-windows-deployment-manifest.json
+
+      - name: Deploy to EB
+        uses: einaregilsson/beanstalk-deploy@v16
+        with:
+          aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          application_name: csynetwork1
+          environment_name: Csynetwork1-env
+          version_label: ${{ github.run_id }}
+          region: us-east-1
+          deployment_package: csy_network.zip
+          wait_for_environment_recovery: 60
+>>>>>>> e9025178a3d07909fcd5d5a2e9a11c26ed391002
