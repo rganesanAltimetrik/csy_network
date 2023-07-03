@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N7zKFRqHpjUMI4cQWfxE3xHn6tOhQShuH3JbnJs/DHs=",
+  "Source": "dotnetcoretestapi",
+  "BasePath": "_content/dotnetcoretestapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

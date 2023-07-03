@@ -1,0 +1,12 @@
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\dotnetcoretestapi.exe
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\appsettings.json
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\aws-windows-deployment-manifest.json
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\dotnetcoretestapi.dll
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\dotnetcoretestapi.deps.json
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\dotnetcoretestapi.runtimeconfig.json
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\dotnetcoretestapi.pdb
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

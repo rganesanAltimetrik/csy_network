@@ -94,3 +94,4 @@ D:\Srijan\csy_network\dotnetcoretestapi\obj\Debug\net6.0\refint\dotnetcoretestap
 D:\Srijan\csy_network\dotnetcoretestapi\obj\Debug\net6.0\dotnetcoretestapi.pdb
 D:\Srijan\csy_network\dotnetcoretestapi\obj\Debug\net6.0\dotnetcoretestapi.genruntimeconfig.cache
 D:\Srijan\csy_network\dotnetcoretestapi\obj\Debug\net6.0\ref\dotnetcoretestapi.dll
+D:\Srijan\csy_network\dotnetcoretestapi\bin\Debug\net6.0\aws-windows-deployment-manifest.json

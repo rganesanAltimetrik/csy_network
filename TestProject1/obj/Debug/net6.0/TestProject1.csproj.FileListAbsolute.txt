@@ -230,3 +230,4 @@ D:\Srijan\csy_network\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
 D:\Srijan\csy_network\TestProject1\obj\Debug\net6.0\TestProject1.pdb
 D:\Srijan\csy_network\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
 D:\Srijan\csy_network\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
+D:\Srijan\csy_network\TestProject1\bin\Debug\net6.0\aws-windows-deployment-manifest.json
