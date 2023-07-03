@@ -22,6 +22,8 @@ jobs:
         dotnet-version: 6.0.x
     - name: Restore dependencies
       run: dotnet restore
+      working-directory: csy_network/csy_network
+
     - name: Build
       run: dotnet build --no-restore
       
