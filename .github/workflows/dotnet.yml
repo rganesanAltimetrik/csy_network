@@ -33,7 +33,7 @@ jobs:
       working-directory: csy_network/csy_network.Test
 
     - name: Copy Coverage to Predictable Location
-      run: cp ./coverage/*/coverage.cobertura.xml ./coverage/coverage.cobertura.xml
+      run: cp csy_network/coverage/*/coverage.cobertura.xml coverage/coverage.cobertura.xml
 
     - name: Code Coverage Summary Report
       uses: irongut/CodeCoverageSummary@v1.3.0
