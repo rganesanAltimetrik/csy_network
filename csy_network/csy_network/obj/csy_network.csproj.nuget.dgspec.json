@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj": {}
+    "D:\\srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj": {}
   },
   "projects": {
-    "D:\\Srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj": {
+    "D:\\srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj",
+        "projectUniqueName": "D:\\srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj",
         "projectName": "csy_network",
-        "projectPath": "D:\\Srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj",
+        "projectPath": "D:\\srijan\\csy_network\\csy_network\\csy_network\\csy_network.csproj",
         "packagesPath": "D:\\Users\\avalle\\.nuget\\packages\\",
         "outputPath": "D:\\Srijan\\csy_network\\csy_network\\csy_network\\obj\\",
         "projectStyle": "PackageReference",
